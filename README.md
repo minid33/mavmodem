@@ -16,4 +16,4 @@ There's a [great guide here](http://blog.hypriot.com/getting-started-with-docker
 If you intend to use mavmodem on a a raspberry pi you should change the FROM image from `FROM ubuntu:14.04` to `FROM resin/rpi-raspbian`. This will be scripted in later revisions.
 
 ## Example Setup ##
-![http://i.imgur.com/P3U3IvS.png](Setup)
+![Example Setup](http://i.imgur.com/NQbKhYs.png)
